@@ -4,6 +4,8 @@ Senior Full Stack Software Engineer, Solutions Architect, and Technical Leader f
 
 Founder of Crestone Technology LLC and contributor to projects published through the Crestone-Tech organization.
 
+15 Years of Technical Leadership and Business Analysis in the Pega software Platform
+
 ---
 
 ## Current Focus
@@ -71,7 +73,6 @@ Organization:
 - JavaScript
 - SQL
 - Java
-- C#
 
 ### Backend & APIs
 - FastAPI
@@ -81,10 +82,8 @@ Organization:
 - Authentication and authorization
 
 ### Cloud & Infrastructure
-- AWS
-- Docker
-- Kubernetes
 - PostgreSQL
+- Docker
 - CI/CD pipelines
 
 ### Frontend & Mobile
